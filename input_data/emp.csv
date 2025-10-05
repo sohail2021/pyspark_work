@@ -1,0 +1,21 @@
+employee_id,department_id,name,age,gender,salary,hire_date
+001,101,John Doe,30,Male,50000,01-01-2015
+002,101,Jane Smith,25,Female,45000,15-02-2016
+003,102,Bob Brown,35,Male,55000,01-05-2014
+004,102,Alice Lee,28,Female,48000,30-09-2017
+005,103,Jack Chan,40,Male,60000,01-04-2013
+006,103,Jill Wong,32,Female,52000,01-07-2018
+007,101,James Johnson,42,Male,70000,15-03-2012
+008,102,Kate Kim,29,Female,51000,01-10-2019
+009,103,Tom Tan,33,Male,58000,01-06-2016
+010,104,Lisa Lee,27,Female,47000,01-08-2018
+011,104,David Park,38,Male,65000,01-11-2015
+012,105,Susan Chen,31,Female,54000,15-02-2017
+013,106,Brian Kim,45,Male,75000,01-07-2011
+014,107,Emily Lee,26,Female,46000,01-01-2019
+015,106,Michael Lee,37,Male,63000,30-09-2014
+016,107,Kelly Zhang,30,Female,49000,01-04-2018
+017,105,George Wang,34,Male,57000,15-03-2016
+018,104,Nancy Liu,29,Female,50000,01-06-2017
+019,103,Steven Chen,36,Male,62000,01-08-2015
+020,102,Grace Kim,32,Female,53000,01-11-2018
